@@ -1,0 +1,4 @@
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Release\netcoreapp3.1\TestHarness.csprojAssemblyReference.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Release\netcoreapp3.1\TestHarness.AssemblyInfoInputs.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Release\netcoreapp3.1\TestHarness.AssemblyInfo.cs
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Release\netcoreapp3.1\TestHarness.csproj.CoreCompileInputs.cache

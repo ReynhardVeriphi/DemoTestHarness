@@ -1,0 +1,14 @@
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.exe
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.deps.json
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.runtimeconfig.json
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.runtimeconfig.dev.json
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.dll
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\bin\Debug\netcoreapp3.1\TestHarness.pdb
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.AssemblyInfoInputs.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.AssemblyInfo.cs
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.dll
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.pdb
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.genruntimeconfig.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.csproj.AssemblyReference.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\TestHarness\obj\Debug\netcoreapp3.1\TestHarness.GeneratedMSBuildEditorConfig.editorconfig

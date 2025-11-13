@@ -1,0 +1,10 @@
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\bin\Release\netstandard2.0\Mathy.deps.json
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\bin\Release\netstandard2.0\Mathy.dll
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\bin\Release\netstandard2.0\Mathy.pdb
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.AssemblyInfoInputs.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.AssemblyInfo.cs
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.csproj.CoreCompileInputs.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.dll
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.pdb
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.csproj.AssemblyReference.cache
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Release\netstandard2.0\Mathy.GeneratedMSBuildEditorConfig.editorconfig

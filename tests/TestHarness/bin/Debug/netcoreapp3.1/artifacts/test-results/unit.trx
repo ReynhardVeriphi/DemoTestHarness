@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="f051593d-4889-406a-8e83-b1983fde6f3b" name="Reynhard Buitendach@LD 2025-11-13 13:03:16" runUser="LD\Reynhard Buitendach" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-11-13T13:03:16.6117693+13:00" queuing="2025-11-13T13:03:16.6117696+13:00" start="2025-11-13T13:03:15.5444904+13:00" finish="2025-11-13T13:03:16.6195908+13:00" />
+  <TestSettings name="default" id="c8db8e38-2a66-4e80-abc8-14a4b1157fc4">
+    <Deployment runDeploymentRoot="Reynhard_Buitendach_LD_2025-11-13_13_03_16" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="7a8a2f34-d9ca-4fb4-ab29-48e94471c85b" testId="808fd874-a0c8-ae09-2d8f-597a6429d762" testName="Divide_ByZero_Throws" computerName="LD" duration="00:00:00.0054729" startTime="2025-11-13T13:03:16.0000000+13:00" endTime="2025-11-13T13:03:16.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7a8a2f34-d9ca-4fb4-ab29-48e94471c85b" />
+    <UnitTestResult executionId="e618a122-f401-48eb-9f54-b9c69137090a" testId="86665130-4249-9b27-7fde-6485542abc33" testName="Add_AddsTwoNumbers" computerName="LD" duration="00:00:00.0142040" startTime="2025-11-13T13:03:16.0000000+13:00" endTime="2025-11-13T13:03:16.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e618a122-f401-48eb-9f54-b9c69137090a" />
+    <UnitTestResult executionId="c7c97a8b-4052-4a69-81c3-165cf29e09d5" testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" testName="Divide_ByNonZero_Works" computerName="LD" duration="00:00:00.0013220" startTime="2025-11-13T13:03:16.0000000+13:00" endTime="2025-11-13T13:03:16.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7c97a8b-4052-4a69-81c3-165cf29e09d5" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Divide_ByNonZero_Works" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="ba7f5b8d-faaf-2985-31fc-9bfde775a8df">
+      <Execution id="c7c97a8b-4052-4a69-81c3-165cf29e09d5" />
+      <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Divide_ByNonZero_Works" />
+    </UnitTest>
+    <UnitTest name="Divide_ByZero_Throws" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="808fd874-a0c8-ae09-2d8f-597a6429d762">
+      <Execution id="7a8a2f34-d9ca-4fb4-ab29-48e94471c85b" />
+      <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Divide_ByZero_Throws" />
+    </UnitTest>
+    <UnitTest name="Add_AddsTwoNumbers" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="86665130-4249-9b27-7fde-6485542abc33">
+      <Execution id="e618a122-f401-48eb-9f54-b9c69137090a" />
+      <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Add_AddsTwoNumbers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="808fd874-a0c8-ae09-2d8f-597a6429d762" executionId="7a8a2f34-d9ca-4fb4-ab29-48e94471c85b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="86665130-4249-9b27-7fde-6485542abc33" executionId="e618a122-f401-48eb-9f54-b9c69137090a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" executionId="c7c97a8b-4052-4a69-81c3-165cf29e09d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll&#xD;
+   NUnit3TestExecutor converted 3 of 3 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
