@@ -98,3 +98,4 @@ C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\obj\Releas
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\obj\Release\netcoreapp3.1\Mathy.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\obj\Release\netcoreapp3.1\Mathy.Te.25EEBC7C.Up2Date
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\obj\Release\netcoreapp3.1\Mathy.Tests.sourcelink.json

@@ -8,7 +8,7 @@ namespace Mathy.Tests
         [Test]
         public void Add_AddsTwoNumbers()
         {
-            Assert.That(Calculator.Add(2, 3), Is.EqualTo(5));
+            Assert.That(Calculator.Add(2, 3), Is.EqualTo(6));
         }
 
         [Test]

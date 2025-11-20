@@ -8,3 +8,4 @@ C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Debug\netstand
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Debug\netstandard2.0\Mathy.pdb
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Debug\netstandard2.0\Mathy.csproj.AssemblyReference.cache
 C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Debug\netstandard2.0\Mathy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reynhard Buitendach\source\repos\DemoTests\src\Mathy\obj\Debug\netstandard2.0\Mathy.sourcelink.json

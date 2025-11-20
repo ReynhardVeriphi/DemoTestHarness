@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TestRun id="f998fc02-173d-48db-86ea-edc36533ca16" name="Reynhard Buitendach@LD 2025-11-14 11:48:40" runUser="LD\Reynhard Buitendach" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <Times creation="2025-11-14T11:48:40.3546290+13:00" queuing="2025-11-14T11:48:40.3546293+13:00" start="2025-11-14T11:48:38.6434964+13:00" finish="2025-11-14T11:48:40.3645727+13:00" />
-  <TestSettings name="default" id="08a806fb-30e4-4436-9a6f-4210459ac848">
-    <Deployment runDeploymentRoot="Reynhard_Buitendach_LD_2025-11-14_11_48_40" />
+<TestRun id="190569eb-5fe7-4683-8d32-a024551c9492" name="Reynhard Buitendach@LD 2025-11-18 14:29:11" runUser="LD\Reynhard Buitendach" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-11-18T14:29:11.0780139+13:00" queuing="2025-11-18T14:29:11.0780142+13:00" start="2025-11-18T14:29:09.5729331+13:00" finish="2025-11-18T14:29:11.0871592+13:00" />
+  <TestSettings name="default" id="279af609-aa0f-444d-9510-8a2b641c1fd2">
+    <Deployment runDeploymentRoot="Reynhard_Buitendach_LD_2025-11-18_14_29_11" />
   </TestSettings>
   <Results>
-    <UnitTestResult executionId="e7d65613-bde1-45df-b23f-aeeeec2d2b7b" testId="86665130-4249-9b27-7fde-6485542abc33" testName="Add_AddsTwoNumbers" computerName="LD" duration="00:00:00.0157540" startTime="2025-11-14T11:48:40.0000000+13:00" endTime="2025-11-14T11:48:40.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7d65613-bde1-45df-b23f-aeeeec2d2b7b" />
-    <UnitTestResult executionId="e42a7b5a-a290-454c-977e-096018fc7ba9" testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" testName="Divide_ByNonZero_Works" computerName="LD" duration="00:00:00.0018900" startTime="2025-11-14T11:48:40.0000000+13:00" endTime="2025-11-14T11:48:40.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e42a7b5a-a290-454c-977e-096018fc7ba9" />
-    <UnitTestResult executionId="07fa2d3b-cff7-49d3-b531-168f1623d37d" testId="808fd874-a0c8-ae09-2d8f-597a6429d762" testName="Divide_ByZero_Throws" computerName="LD" duration="00:00:00.0064540" startTime="2025-11-14T11:48:40.0000000+13:00" endTime="2025-11-14T11:48:40.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07fa2d3b-cff7-49d3-b531-168f1623d37d" />
+    <UnitTestResult executionId="46acde3f-b8cf-40d6-89e7-24a6649af9a0" testId="86665130-4249-9b27-7fde-6485542abc33" testName="Add_AddsTwoNumbers" computerName="LD" duration="00:00:00.0152280" startTime="2025-11-18T14:29:10.0000000+13:00" endTime="2025-11-18T14:29:10.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46acde3f-b8cf-40d6-89e7-24a6649af9a0" />
+    <UnitTestResult executionId="b1c1a222-19c4-490d-9a9c-0799dcde06aa" testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" testName="Divide_ByNonZero_Works" computerName="LD" duration="00:00:00.0019270" startTime="2025-11-18T14:29:10.0000000+13:00" endTime="2025-11-18T14:29:10.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1c1a222-19c4-490d-9a9c-0799dcde06aa" />
+    <UnitTestResult executionId="86ee550d-eb7c-49b6-92ff-439a47df2ea8" testId="808fd874-a0c8-ae09-2d8f-597a6429d762" testName="Divide_ByZero_Throws" computerName="LD" duration="00:00:00.0065080" startTime="2025-11-18T14:29:10.0000000+13:00" endTime="2025-11-18T14:29:10.0000000+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86ee550d-eb7c-49b6-92ff-439a47df2ea8" />
   </Results>
   <TestDefinitions>
     <UnitTest name="Divide_ByNonZero_Works" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="ba7f5b8d-faaf-2985-31fc-9bfde775a8df">
-      <Execution id="e42a7b5a-a290-454c-977e-096018fc7ba9" />
+      <Execution id="b1c1a222-19c4-490d-9a9c-0799dcde06aa" />
       <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Divide_ByNonZero_Works" />
     </UnitTest>
     <UnitTest name="Divide_ByZero_Throws" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="808fd874-a0c8-ae09-2d8f-597a6429d762">
-      <Execution id="07fa2d3b-cff7-49d3-b531-168f1623d37d" />
+      <Execution id="86ee550d-eb7c-49b6-92ff-439a47df2ea8" />
       <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Divide_ByZero_Throws" />
     </UnitTest>
     <UnitTest name="Add_AddsTwoNumbers" storage="c:\users\reynhard buitendach\source\repos\demotests\tests\mathy.tests\bin\release\netcoreapp3.1\mathy.tests.dll" id="86665130-4249-9b27-7fde-6485542abc33">
-      <Execution id="e7d65613-bde1-45df-b23f-aeeeec2d2b7b" />
+      <Execution id="46acde3f-b8cf-40d6-89e7-24a6649af9a0" />
       <TestMethod codeBase="C:\Users\Reynhard Buitendach\source\repos\DemoTests\tests\Mathy.Tests\bin\Release\netcoreapp3.1\Mathy.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Mathy.Tests.CalculatorTests" name="Add_AddsTwoNumbers" />
     </UnitTest>
   </TestDefinitions>
   <TestEntries>
-    <TestEntry testId="86665130-4249-9b27-7fde-6485542abc33" executionId="e7d65613-bde1-45df-b23f-aeeeec2d2b7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" executionId="e42a7b5a-a290-454c-977e-096018fc7ba9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="808fd874-a0c8-ae09-2d8f-597a6429d762" executionId="07fa2d3b-cff7-49d3-b531-168f1623d37d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="86665130-4249-9b27-7fde-6485542abc33" executionId="46acde3f-b8cf-40d6-89e7-24a6649af9a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba7f5b8d-faaf-2985-31fc-9bfde775a8df" executionId="b1c1a222-19c4-490d-9a9c-0799dcde06aa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="808fd874-a0c8-ae09-2d8f-597a6429d762" executionId="86ee550d-eb7c-49b6-92ff-439a47df2ea8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
   </TestEntries>
   <TestLists>
     <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
