@@ -40,8 +40,7 @@ jobs:
         run: >
           dotnet run --project test-harness/TestHarness.Cli/TestHarness.Cli.csproj --configuration Release --
           TestHarness:Runner=NUnit
-          TestHarness:TestAssembliesPath=./tests/Mathy.Tests/bin/Release/net8.0
-          TestHarness:TestAssemblyPattern=*.dll
+          TestHarness:TestAssemblies=./tests/Mathy.Tests/bin/Release/net8.0/Mathy.Tests.dll;./tests/Mathy1.Tests/bin/Release/net8.0/Mathy1.Tests.dll
           TestHarness:ReportOutputPath=reports/test-results.json
 
       # 7. Upload test report as artifact
